@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## ReGarder le film <Clouds> Streaming vf Gratuit vostfr
 
-You can use the [editor on GitHub](https://github.com/khaliqacine/film/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/khaliqacine/film/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Zach Sobiech, un adolescent de 17 ans doué pour la musique, est atteint d’un cancer des os (ostéosarcome). Élève en terminale, il déborde de vie et de projets. Mais lorsqu’il apprend que son cancer est généralisé, il décide avec sa meilleure amie Sammy - qui compose avec lui - de profiter au maximum du peu de temps qu’il lui reste. Grâce à leur professeur M. Weaver, Zach et Sammy parviennent à signer un contrat avec une maison de disques. Accompagné de sa petite amie Amy et de ses parents Rob et Laura, Zach va vivre d’intenses moments où l’amitié et l’amour se conjuguent au son de la force évocatrice de la musique.
+*Cliquez icci [Clouds](http://vostfr.xyz/fr/movie/630566/clouds)
+Sortie: 2020-10-09
+Durée: 121 minutes
+Genre: Musique, Drame, Romance
+Etoiles: Steffan Argus, Sabrina Carpenter, Madison Iseman, Neve Campbell, Tom Everett Scott
+Directeur: Brian Tyler, Michele Laliberte, Andrew Lazar, Casey La Scala, Casey La Scal
